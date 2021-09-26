@@ -1,6 +1,6 @@
 # Glad you're here! 👋
 
-I'm on a journey to polishing my fullstack development skills. With 2 years of full-stack web development experience for global businesses, I offer the technical expertise.
+I'm on a journey to polishing fullstack development skills. With 2+ years of web development experience for global businesses, I offer the technical expertise.
 
 Since earning my bachelor’s degree in Computer Sciences, I started actively coding in early 2020. In this duration, I have led web development projects for clients in diverse industries including technology, manufacturing, hospitality, F&B, retail and financial services.
 
