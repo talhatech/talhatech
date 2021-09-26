@@ -16,25 +16,25 @@ Lots and lots of learning. I've finished "AWS Certified Cloud Practitioner" cert
 
 ### 🔭 Stacks
 
-![](https://img.shields.io/badge/Language-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=FFFFFF&labelColor=000000)
-![](https://img.shields.io/badge/Library-Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=FFFFFF&labelColor=000000)
+![](https://img.shields.io/badge/Language-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=10A0CC&labelColor=003366 )
+![](https://img.shields.io/badge/Library-Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=10A0CC&labelColor=003366 )
 
-![](https://img.shields.io/badge/Language-Javascript-informational?style=plastic&logo=javascript&logoColor=white&color=FFFFFF&labelColor=000000)
-![](https://img.shields.io/badge/Library-React-informational?style=plastic&logo=react&logoColor=white&color=FFFFFF&labelColor=000000)
-![](https://img.shields.io/badge/Library-Redux-informational?style=plastic&logo=redux&logoColor=white&color=FFFFFF&labelColor=000000)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=plastic&logo=javascript&logoColor=white&color=10A0CC&labelColor=003366 )
+![](https://img.shields.io/badge/Library-React-informational?style=plastic&logo=react&logoColor=white&color=10A0CC&labelColor=003366 )
+![](https://img.shields.io/badge/Library-Redux-informational?style=plastic&logo=redux&logoColor=white&color=10A0CC&labelColor=003366 )
 
-![](https://img.shields.io/badge/Language-PHP-informational?style=plastic&logo=php&logoColor=white&color=FFFFFF&labelColor=000000)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=plastic&logo=laravel&logoColor=white&color=FFFFFF&labelColor=000000)
+![](https://img.shields.io/badge/Language-PHP-informational?style=plastic&logo=php&logoColor=white&color=10A0CC&labelColor=003366 )
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=plastic&logo=laravel&logoColor=white&color=10A0CC&labelColor=003366 )
 
-![](https://img.shields.io/badge/Database-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=FFFFFF&labelColor=000000)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=amazon&logoColor=white&color=FFFFFF&labelColor=000000)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=10A0CC&labelColor=003366 )
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=amazon&logoColor=white&color=10A0CC&labelColor=003366 )
 
-![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=plastic&logo=visualstudio\&logoColor=white&color=FFFFFF&labelColor=000000)
-![](https://img.shields.io/badge/Chrome-DevTools-informational?style=plastic&logo=google&logoColor=white&color=FFFFFF&labelColor=000000)
-![](https://img.shields.io/badge/DevOps-Git-informational?style=plastic&logo=git&logoColor=white&color=FFFFFF&labelColor=000000)
+![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=plastic&logo=visualstudio\&logoColor=white&color=10A0CC&labelColor=003366 )
+![](https://img.shields.io/badge/Chrome-DevTools-informational?style=plastic&logo=google&logoColor=white&color=10A0CC&labelColor=003366 )
+![](https://img.shields.io/badge/DevOps-Git-informational?style=plastic&logo=git&logoColor=white&color=10A0CC&labelColor=003366 )
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=FFFFFF&labelColor=000000)
-![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=FFFFFF&labelColor=000000)
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=10A0CC&labelColor=003366 )
+![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=10A0CC&labelColor=003366 )
 
 ### Avocation
 
