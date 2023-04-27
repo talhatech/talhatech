@@ -45,5 +45,5 @@ I'm also an avid reader & enjoy participating in running events.
 ### Get in touch.
 
 <a href="https://www.linkedin.com/in/talhatech/"><img height="30" src="icon/linkedin.png"/>
-<a href="https://www.instagram.com/talha.tech"><img height="30" src="icon/instagram.png"/>
+<a href="https://www.instagram.com/talhatech"><img height="30" src="icon/instagram.png"/>
 <a href="https://github.com/talhatech"><img height="30" src="icon/octocat.png"/>
