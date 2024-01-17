@@ -1,18 +1,14 @@
 # Glad you're here! 👋
 
-I'm on a journey to polishing fullstack development skills. With 4+ years of web development experience for global businesses, I offer the technical expertise.
+I'm on a journey to polishing fullstack development skills. With 4+ years of web development experience for global businesses, I offer technical expertise.
 
-Since earning my bachelor’s degree in Computer Sciences, I started actively coding in early 2020. In this duration, I have led web development projects for clients in diverse industries including technology, manufacturing, hospitality, F&B, retail and financial services.
+Since earning my bachelor’s degree in Computer Science. During this duration, I have led web development projects for clients in diverse industries including technology, manufacturing, hospitality, F&B, retail, and financial services.
 
-Being a self-taught developer I'm committed to learning something new everyday. I also love to share what I've learnt with fellow coders on the same journey. While I love to solve real world problems, I've huge interested in Amazon Web Services and I'm tackling that next!
+Being a self-taught developer I'm committed to learning something new every day. I also love to share what I've learned with fellow coders on the same journey. While I love to solve real-world problems, I'm hugely interested in Amazon Web Services and I'm tackling that next!
 
 ### Aspiration
 
-I don't spend much time anguishing over tech stack. Whatever tech stack provides the least resistance is the way I prefer to roll. The main goals of mine as Web Developer, to identify clients pain points and satisfy what his/her needs.
-
-### What have I been doing?
-
-Lots and lots of learning. I've finished "AWS Certified Cloud Practitioner" certification with Udemy course and currently going through AWS Certified Developer - Associate.
+I don't spend much time anguishing over tech stack. Whatever tech stack provides the least resistance is the way I prefer to roll. My main goals as a Web Developer, are to identify clients' pain points and satisfy what his/her needs.
 
 ### 🔭 Stacks
 
